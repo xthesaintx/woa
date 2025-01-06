@@ -1,0 +1,52 @@
+{
+  "id": "whispers-of-the-abyss",
+  "title": "Whispers of the Abyss",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "url": "https://github.com/xthesaintx/woa/",
+  "manifest": "https://raw.githubusercontent.com/xthesaintx/woa/main/module.json",
+  "download": "https://github.com/xthesaintx/SOTD/archive/refs/tags/0.0.1.zip",
+  "readme": "https://github.com/xthesaintx/woa/blob/main/README.md",
+  "url": "https://github.com/xthesaintx/woa/",
+  "packs": [
+    {
+      "name": "woa-creatures",
+      "label": "WOA-Creatures",
+      "path": "packs/woa-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "woa-items",
+      "label": "WOA-Items",
+      "path": "packs/woa-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "woa-journal",
+      "label": "WOA-Journal",
+      "path": "packs/woa-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
