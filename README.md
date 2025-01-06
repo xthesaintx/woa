@@ -4,7 +4,7 @@ Whisper of the Abysss - Adventure Module compendium published on https://www.pat
 ## Requirements
 Asset pack from:
 https://www.patreon.com/c/wgtngm
-D&D Foundry version: 4+
+D&D Foundry version: 4.1+
 
 ## Installing
 1. Start up Foundry and click "Install Module" in the "Add-on Modules" tab.
