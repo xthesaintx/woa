@@ -2,13 +2,8 @@
 Whisper of the Abysss - Adventure Module compendium published on https://www.patreon.com/c/wgtngm
 
 ## Requirements
-The following modules are required:
-* Tagger
-* Monk's Active Tile Triggers
-* Better Roofs
-* Wall Height
-* Levels
-* libWrapper
+Asset pack from:
+https://www.patreon.com/c/wgtngm
 
 ## Installing
 1. Start up Foundry and click "Install Module" in the "Add-on Modules" tab.
