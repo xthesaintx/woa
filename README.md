@@ -7,7 +7,7 @@ If you got this via Patreon, members have access to the newest version of this m
 
 Get the updated version of the module from:
 * [Patreon Shop](https://www.patreon.com/wgtnGM/shop/whispers-of-abyss-foundry-module-864130?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
-* Or[DMs Guild](https://www.dmsguild.com/product/510842/Whispers-of-the-Abyss--Foundry-Module)
+* [DMs Guild](https://www.dmsguild.com/product/510842/Whispers-of-the-Abyss--Foundry-Module)
 
 The
 
