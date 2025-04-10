@@ -2,7 +2,7 @@
 Whisper of the Abysss - Adventure Module compendium published on https://www.patreon.com/c/wgtngm
 
 ##
-This module is now deprecated and modules with asset packs are no longer being updated.
+This module is now deprecated, and modules with asset packs are no longer being updated.
 If you got this via Patreon, members have access to the newest version of this module for free.
 
 Get the updated version of the module from:
