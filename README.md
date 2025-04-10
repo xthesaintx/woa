@@ -1,6 +1,14 @@
 # Whisper of the Abysss - FoundryVTT Module
 Whisper of the Abysss - Adventure Module compendium published on https://www.patreon.com/c/wgtngm
 
+##
+This module is now deprecated and modules with asset packs are no longer being updated.
+If you got this via patreon, members have access to the newest version of this module for free
+[https://www.patreon.com/c/wgtngm](https://www.patreon.com/wgtnGM/shop/whispers-of-abyss-foundry-module-864130?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
+Or it can be purchase via Patreon or [https://www.dmsguild.com/product/510842/Whispers-of-the-Abyss--Foundry-Module](DMs Guild)
+
+The
+
 ## Requirements
 Asset pack from:
 https://www.patreon.com/c/wgtngm
