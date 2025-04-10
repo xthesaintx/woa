@@ -5,7 +5,7 @@ Whisper of the Abysss - Adventure Module compendium published on https://www.pat
 This module is now deprecated and modules with asset packs are no longer being updated.
 If you got this via patreon, members have access to the newest version of this module for free
 [Patreon Shop](https://www.patreon.com/wgtnGM/shop/whispers-of-abyss-foundry-module-864130?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_creator&utm_content=join_link)
-Or it can be purchase via Patreon or [https://www.dmsguild.com/product/510842/Whispers-of-the-Abyss--Foundry-Module](DMs Guild)
+Or it can be purchase via Patreon or [DMs Guild](https://www.dmsguild.com/product/510842/Whispers-of-the-Abyss--Foundry-Module)
 
 The
 
